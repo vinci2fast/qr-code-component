@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.png)
 
 ### Links
 
-- Live URL: [QR Code Component Live](https://your-solution-url.com)
+- Live URL: [QR Code Component Live](https://vinci2fast.github.io/qr-code-component)
 
 ## My process
 
